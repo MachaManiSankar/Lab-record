@@ -1,2 +1,2 @@
-# Lab-record
-pdf
+#Mani Sankar
+Full Stack
